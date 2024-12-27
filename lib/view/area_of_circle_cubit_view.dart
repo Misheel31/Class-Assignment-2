@@ -14,10 +14,11 @@ class CircleAreaCubitView extends StatelessWidget {
         title: const Column(
           children: [
             SizedBox(height: 30),
-            Text('Area of Circle'),
+            Text('Misheel Class Assignment 2'),
           ],
         ),
         centerTitle: true,
+        backgroundColor: Colors.blueGrey,
       ),
       body: Padding(
         padding: const EdgeInsets.all(10),

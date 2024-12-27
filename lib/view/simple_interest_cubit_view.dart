@@ -15,11 +15,12 @@ class SimpleInterestCubitView extends StatelessWidget {
       appBar: AppBar(
         title: const Column(
           children: [
-            SizedBox(height: 30),
-            Text('Simple Interest'),
+            SizedBox(height: 20),
+            Text('Misheel Class Assignment 2'),
           ],
         ),
         centerTitle: true,
+        backgroundColor: Colors.blueGrey,
       ),
       body: Padding(
         padding: const EdgeInsets.all(20),
